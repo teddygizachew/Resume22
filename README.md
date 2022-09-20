@@ -1,2 +1,2 @@
 # Resume22
-![](https://github.com/Zjjc123/resume/blob/main/resume.png)
+![](https://github.com/teddygizachew/Resume22/blob/main/resume.png)
